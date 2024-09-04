@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "testProjectLib")(type "KiCad")(uri "${KIPRJMOD}/testProjectLib.kicad_sym")(options "")(descr ""))
+  (lib (name "PicoBoard")(type "KiCad")(uri "${KIPRJMOD}/PicoBoard.kicad_sym")(options "")(descr ""))
+)
